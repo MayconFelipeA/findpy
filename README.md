@@ -19,8 +19,8 @@ print(f'folder: {result['folder'][0]} time: {result['time'][0]}')
 * parameters
     findFolder(folder, folderSearch)
 
-    folder = initial folder for searching
-    folderSearch = folder for search
+    * folder = initial folder for searching
+    * folderSearch = folder for search
 
 
 **findString**
@@ -33,10 +33,12 @@ print(result['folder'][0])
 * parameters
     findString(folder, string, tfile)
 
-    folder = inital folder for searching
-    string = string for search
-    tfile = type file for search
+    * folder = inital folder for searching
+    * string = string for search
+    * tfile = type file for search
 
 
+	
+	
 ** GOOD USE **
 This is my first package, suggestion contact me.
