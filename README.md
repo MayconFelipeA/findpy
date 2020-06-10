@@ -2,6 +2,11 @@
 
 Simple package in python.
 
+# Install
+```
+ pip install findpy
+```
+
 # How is?
 
 Search folders, and search folders in subfolders.
